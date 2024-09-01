@@ -1,5 +1,5 @@
 # Introduction - how to read this doc
-## Demo Video  That I  created [Click to see the demo](https://drive.google.com/file/d/1Ng5v4a8NuMOBYZbueMYYFVUDAwZ1HPN5/view?usp=sharing) 
+## Demo Video  That I  created (solution Video) [Click to see the demo](https://drive.google.com/file/d/1Ng5v4a8NuMOBYZbueMYYFVUDAwZ1HPN5/view?usp=sharing) 
 - This exercise is designed to test basic skills in 3 core areas:
 
 1. [SQL databases](#1-database)
